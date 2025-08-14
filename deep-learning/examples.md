@@ -1,4 +1,5 @@
 
+<img width="669" height="407" alt="image" src="https://github.com/user-attachments/assets/9b8cda0e-ed34-427e-9c37-c8a63639f6fa" />
 
 Weights (w) → how important each input is
 
@@ -19,5 +20,6 @@ It processes it step-by-step through the hidden layers (red).
 You get a prediction or result (purple).
 
 If it’s wrong, it adjusts the “weights” so next time it’s closer to correct.
+
 
 This is repeated thousands or millions of times until the network is good at its job.
