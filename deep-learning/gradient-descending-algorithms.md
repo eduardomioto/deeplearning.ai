@@ -864,6 +864,7 @@ plt.show()
 
 ### **Blogs**
 - [An overview of gradient descent optimization algorithms (Sebastian Ruder's blog)](https://www.ruder.io/optimizing-gradient-descent/)
+- [Understanding Stochastic Gradient Descent in Machine Learning: A Beginner’s Guide](https://www.upgrad.com/tutorials/ai-ml/machine-learning-tutorial/stochastic-gradient-descent/) 
 
 ---
 
@@ -871,3 +872,4 @@ plt.show()
 
 
 *Gradient descent algorithms are the engines that power deep learning. Understanding their strengths, weaknesses, and proper usage is essential for training effective neural networks.*
+
