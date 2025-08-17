@@ -40,6 +40,9 @@ Think of gradient descent as walking down a hill:
 
 ## 🔄 Types of Gradient Descent
 
+<img width="916" height="511" alt="image" src="https://github.com/user-attachments/assets/b3aba123-07ef-47c9-8a91-d977725a6758" />
+
+
 ### **1. Batch Gradient Descent (BGD)**
 Uses the entire dataset to compute the gradient at each step.
 
@@ -865,5 +868,6 @@ plt.show()
 ---
 
 **Happy Optimization Learning! 🚀✨**
+
 
 *Gradient descent algorithms are the engines that power deep learning. Understanding their strengths, weaknesses, and proper usage is essential for training effective neural networks.*
